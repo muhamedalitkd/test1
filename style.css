@@ -97,19 +97,13 @@ html{
 /* home section styling */
 .home{
     display: flex;
-    background: url("12.jpg") no-repeat center;
+    background-size: cover;
     height: 100vh;
     color: #fff;
     min-height: 1500px;
     font-family: 'Ubuntu', sans-serif;
     background-attachment: fixed;
-    background-size: cover;
-    max-width: 100%;
-    height: auto;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    overflow-x: hidden;
+    background: url("12.JPG") no-repeat center;
 }
 .home .max-width{
     margin: auto 0 auto 40px;
