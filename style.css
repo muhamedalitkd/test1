@@ -96,14 +96,15 @@ html{
 
 /* home section styling */
 .home{
+    display: flex;
     background: url("12.jpg");
     height: 100vh;
     background-size: cover;
     background-repeat: no-repeat;
     background-position: 69%;
-    min-height: 1200px;
     font-family: 'Ubuntu', sans-serif;
     background-attachment: fixed;
+    overflow: hidden;
 }
 .home .max-width{
     margin: auto 0 auto 40px;
