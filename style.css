@@ -99,12 +99,15 @@ html{
     display: flex;
     background-image: url(/images/12.jpg);
     height: 100vh;
-    background-size: 100%;
     -webkit-background-size: cover;
     background-position: 69%;
     font-family: 'Ubuntu', sans-serif;
     background-attachment: fixed;
     overflow: hidden;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    margin: 3px auto 0;
+    position: relative;
 }
 .home .max-width{
     margin: auto 0 auto 40px;
