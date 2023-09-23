@@ -106,6 +106,10 @@ html{
     background-size: cover;
     max-width: 100%;
     height: auto;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    overflow-x: hidden;
 }
 .home .max-width{
     margin: auto 0 auto 40px;
