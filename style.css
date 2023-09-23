@@ -96,14 +96,14 @@ html{
 
 /* home section styling */
 .home{
-    display: flex;
-    background-size: cover;
+    background: url("12.JPG");
     height: 100vh;
-    color: #fff;
-    min-height: 1500px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: 69%;
+    min-height: 1200px;
     font-family: 'Ubuntu', sans-serif;
     background-attachment: fixed;
-    background: url("12.JPG") no-repeat center;
 }
 .home .max-width{
     margin: auto 0 auto 40px;
