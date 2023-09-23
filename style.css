@@ -104,8 +104,6 @@ html{
     font-family: 'Ubuntu', sans-serif;
     background-attachment: fixed;
     background: url("12.JPG") no-repeat center;
-    max-width: 100%;
-    height: auto;
 }
 .home .max-width{
     margin: auto 0 auto 40px;
@@ -630,6 +628,12 @@ footer span a:hover{
         background-position: center center;
         background-attachment: fixed;
         background-size: cover;
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        background-size: cover;
+        max-width: 100%;
+        height: auto;
     }
     .home .home-content .text-2{
         font-size: 70px;
@@ -689,6 +693,12 @@ footer span a:hover{
         background-position: center center;
         background-attachment: fixed;
         background-size: cover;
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        background-size: cover;
+        max-width: 100%;
+        height: auto;
     }
     
 }
@@ -711,6 +721,12 @@ footer span a:hover{
         background-position: center center;
         background-attachment: fixed;
         background-size: cover;
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        background-size: cover;
+        max-width: 100%;
+        height: auto;
     }
 }
 
