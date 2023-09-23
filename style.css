@@ -104,6 +104,8 @@ html{
     font-family: 'Ubuntu', sans-serif;
     background-attachment: fixed;
     background: url("12.JPG") no-repeat center;
+    max-width: 100%;
+    height: auto;
 }
 .home .max-width{
     margin: auto 0 auto 40px;
