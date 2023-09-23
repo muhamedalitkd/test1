@@ -96,7 +96,6 @@ html{
 
 /* home section styling */
 .home{
-    
     display: flex;
     background: url("./12.jpg") no-repeat center;
     height: 100vh;
@@ -105,8 +104,6 @@ html{
     font-family: 'Ubuntu', sans-serif;
     background-attachment: fixed;
     background-size: cover;
-    max-width: 100%;
-    height: auto;
 }
 .home .max-width{
     margin: auto 0 auto 40px;
