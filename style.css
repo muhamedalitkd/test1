@@ -99,7 +99,7 @@ html{
     display: flex;
     background-image: url(/images/12.jpg);
     height: 100vh;
-    background-size: cover;
+    background-size: 100%;
     -webkit-background-size: cover;
     background-position: 69%;
     font-family: 'Ubuntu', sans-serif;
