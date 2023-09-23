@@ -103,11 +103,7 @@ html{
     min-height: 1500px;
     font-family: 'Ubuntu', sans-serif;
     background-attachment: fixed;
-    background: url("./12.JPG") center;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    position: center center; 
+    background: url("./12.JPG") no-repeat center;
 }
 .home .max-width{
     margin: auto 0 auto 40px;
