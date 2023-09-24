@@ -97,13 +97,14 @@ html{
 /* home section styling */
 .home{
     display: flex;
-    background: url("./images/55.jpg");
+    background: url("./images/12.jpg");
     height: 80vh;
-    background-position: 69%;
     font-family: 'Ubuntu', sans-serif;
     background-attachment: fixed;
     overflow: hidden;
     background-repeat: no-repeat;
+    background-position: center center;
+    background-size: contain;
 }
 .home .max-width{
     margin: auto 0 auto 40px;
