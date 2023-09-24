@@ -97,7 +97,7 @@ html{
 /* home section styling */
 .home{
     display: flex;
-    background-image: url("./images/55.jpg");
+    background: url("./images/55.jpg");
     height: 80vh;
     background-position: 69%;
     font-family: 'Ubuntu', sans-serif;
